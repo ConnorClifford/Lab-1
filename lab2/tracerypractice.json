@@ -1,0 +1,41 @@
+{
+	"name": [ "Jimmy", "Diana", "Earl", "Jack", "Haylee", "Daryl"],
+
+	"occupation": [ "baker", "police officer", "social worker", "Florida
+		resident", "student", "teacher" ],
+
+	"always":[ "always", "never", "kind of", "not" ],
+
+	"expecting":[ "expecting", "wishing", "doubting" ],
+
+	"adjective":[ "frightening", "disgusting", "cheerful", "experienced" ],
+
+	"creature":[ "gator", "peacock", "Knight", "veteran" ],
+
+	"contest":[ "race", "show", "competition", "tournament" ],
+
+	"this":[ "this happened", "everything went wrong", "the most amazing thing
+	occurred" ],
+
+	"you":[ "You", "They" ],
+
+	"not_imagine":[ "not imagine", "never think of", "not comprehend", "never
+	foresee" ],
+
+	"horrible":[ "horrible", "fantastic", "amazing", "nightmarish" ],
+
+	"happened":[ "happened", "occurred", "were summoned" ],
+
+	"next":[ "next", "later", "afterwards" ],
+
+	"sound":[ "buzz", "bork", "mew", "hiss" ],
+
+	"verb":[ "drink", "jump", "crawl", "run" ],
+
+	"news":[ "news", "journal", "daily", "articles" ],
+
+		"origin": [ "#name#, a #occupation#, was #always# #expecting# that the
+		#creature# would win the #contest# this year, until #this#. #you# could
+		#not_imagine# the #horrible# things that #happened# #next#.
+		https://#sound##verb##news#.com/#creature##contest#/" ]
+}
